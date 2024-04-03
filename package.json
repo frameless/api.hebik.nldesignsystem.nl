@@ -1,0 +1,29 @@
+{
+  "name": "api.hebik.nldesignsystem.nl",
+  "version": "1.0.0",
+  "description": "REST API of hebik.nldesignsystem.nl",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frameless/api.hebik.nldesignsystem.nl.git"
+  },
+  "keywords": [
+    "scraper",
+    "api",
+    "rest",
+    "api"
+  ],
+  "author": "Ryan van Valkenhoef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frameless/api.hebik.nldesignsystem.nl/issues"
+  },
+  "homepage": "https://github.com/frameless/api.hebik.nldesignsystem.nl#readme",
+  "devDependencies": {
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security"
+  }
+}
